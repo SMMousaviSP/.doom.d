@@ -54,3 +54,4 @@
 
 ;; By SMMousaviSP
 (package! elpy)
+(package! jedi)
